@@ -24,7 +24,7 @@ Calculateur qui permet d'estimer les besoins en ressources et de calculer le ROI
 
 ### Estimer les besoins en ressources
 
-Pour estimer vos besoins en ressources, vous devez remplir le premier onglet de ce [fichier](https://github.com/cryptoloutre/Star-Atlas-Score-Calculator) avec les informations de votre flotte (nombre de chaque vaisseau que vous possédez) et la période à laquelle vous souhaitez acheter les resssouces (par exemple, si vous souhaitez acheter vos ressources une fois tous les 7 jours vous devez renseigner la valeur "7" dans la cellule `C8`.
+Pour estimer vos besoins en ressources, vous devez remplir le premier onglet de ce [fichier](https://github.com/cryptoloutre/Star-Atlas-Score-Calculator) avec les informations de votre flotte (nombre de chaque vaisseau que vous possédez) et la période à laquelle vous souhaitez acheter les resssouces (par exemple, si vous souhaitez acheter vos ressources une fois tous les 7 jours vous devez renseigner la valeur "7" dans la cellule `C8`).
 
 ### Calculer le ROI
 
