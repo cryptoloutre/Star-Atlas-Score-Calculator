@@ -15,9 +15,10 @@ To calculate the ROI,  you have to fill in the second tab of this [file](https:/
 ### Update the $ATLAS price
 
 To update the $ATLAS price, press `CTRL+ALT+F5`.
+
 -----------------
 
-##Version Française
+## Version Française
 
 Calculateur qui permet d'estimer les besoins en ressources et de calculer le ROI du mini-jeu de staking "Score" de [Star Atlas](https://twitter.com/staratlas) disponible [ici](https://play.staratlas.com/fleet).
 
